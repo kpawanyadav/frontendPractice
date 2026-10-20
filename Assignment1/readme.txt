@@ -1,1 +1,1 @@
-Simple html page regarding an organisation with aboutus page and an organisation page with some in page links/references.
+Simple HTML page regarding an organization with about us page and an organization page with some in page links/references.
